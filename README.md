@@ -33,6 +33,7 @@
 | Nombre | Rol |
 |--------|-----|
 | Josue Guzman | Full Stack Developer |
+| Joel albert  | Full Stack dev       |
 
 ---
 
