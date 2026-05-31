@@ -39,7 +39,7 @@
 | Josue Guzman   |  Developer           |
 | Joel Albert   |  Developer           |
 | Fabian Hurtado |  Developer           |
-| Elena Rojas    |  Developer           |
+| Elena Rojas    |  encargda del contenido audiovisual y analizis de proyecto |
 
 
 ---
