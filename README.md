@@ -39,7 +39,7 @@
 | ------------   | -------------------- |
 | Josue Guzman   |  Developer           |
 | Joel Albert   |  Developer           |
-| Fabian Hurtado |  Developer           |
+| Fabian Hurtado |  QA Tester y Asistente de Análisis           |
 | Elena Rojas    |  encargda del contenido audiovisual y analizis de proyecto |
 
 
