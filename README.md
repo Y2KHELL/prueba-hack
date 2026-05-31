@@ -34,12 +34,12 @@
 
 ## Equipo
 
-| Nombre       | Rol                  |
-| ------------ | -------------------- |
-| Josue Guzman | Full Stack Developer |
-| Joel Albert  | Full Stack Developer |
-| Integrante 3 | Por definir          |
-| Integrante 4 | Por definir          |
+| Nombre         | Rol                  |
+| ------------   | -------------------- |
+| Josue Guzman   |  Developer           |
+| Joel Albert    |  Developer           |
+| Fabian Hurtado |  Developer           |
+| Elena Rojas    |  Developer           |
 
 > Nota: completar con todos los integrantes oficiales del equipo y verificar que todos figuren como colaboradores en el repositorio de GitHub durante la hackathon.
 
@@ -623,6 +623,40 @@ Tecnologías futuras posibles:
 * Recoger retroalimentación para priorizar mejoras.
 
 ---
+## Documentación técnica
+
+La documentación técnica oficial de **AgroSoya** se encuentra disponible en la carpeta [`DocumentoTecnico`](DocumentoTecnico/).
+
+### Documento técnico principal
+
+- [Ver Documento Técnico - PDF](docs/Documento_Tecnico_AgroSoya.pdf)
+- [Descargar Documento Técnico editable - DOCX](docs/Documento_Tecnico_AgroSoya.docx)
+
+El documento técnico incluye los puntos solicitados por los lineamientos de la hackathon:
+
+- investigación y contexto del problema;
+- problema identificado;
+- solución propuesta;
+- arquitectura tecnológica;
+- aplicación de inteligencia artificial;
+- análisis FODA;
+- análisis PESTEL;
+- Lean Canvas;
+- análisis financiero;
+- impacto esperado;
+- escalabilidad y próximos pasos.
+
+### Lean Canvas
+
+- [Ver Lean Canvas - PDF](docs/Lean_Canvas_AgroSoya.pdf)
+- [Descargar Lean Canvas editable - DOCX](docs/Lean_Canvas_AgroSoya.docx)
+
+### Documentos complementarios
+
+- [Resumen Ejecutivo](docs/Resumen_Ejecutivo_AgroSoya.md)
+- [Fuentes de Investigación](docs/Fuentes_Investigacion_AgroSoya.md)
+
+Estos documentos respaldan la propuesta de AgroSoya como una solución orientada a la digitalización de la cadena soyera cruceña, integrando gestión de campo, control de calidad en acopio, inteligencia artificial y una visión de escalabilidad hacia entornos agroindustriales.
 
 ## Licencia
 
