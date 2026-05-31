@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CAM-2026-001",
+    "nombre": "Soya Verano 2026",
+    "zona": "Pailon",
+    "hectareas": 50,
+    "tipoSuelo": "Medio",
+    "fechaSiembra": "2026-11-10",
+    "semilla": "TMG 7262 IPRO",
+    "estado": "activa",
+    "costos": {
+      "semilla": 2700,
+      "fertilizante": 1200,
+      "herbicida": 500,
+      "fungicida": 400,
+      "insecticida": 300,
+      "maquinaria": 1600,
+      "transporte": 900
+    },
+    "rentabilidad": {
+      "rendimientoTonHa": 2.2,
+      "precioTonUSD": 370
+    }
+  },
+  {
+    "id": "CAM-2026-002",
+    "nombre": "Soya Invierno 2026",
+    "zona": "San Pedro",
+    "hectareas": 35,
+    "tipoSuelo": "Bueno",
+    "fechaSiembra": "2026-06-15",
+    "semilla": "Don Mario 68i68",
+    "estado": "planificada",
+    "costos": {
+      "semilla": 1890,
+      "fertilizante": 840,
+      "herbicida": 350,
+      "fungicida": 280,
+      "insecticida": 210,
+      "maquinaria": 1120,
+      "transporte": 630
+    },
+    "rentabilidad": {
+      "rendimientoTonHa": 2.0,
+      "precioTonUSD": 370
+    }
+  },
+  {
+    "id": "camp_003",
+    "nombre": "Test Soya 2026",
+    "cultivo": "soya",
+    "fecha_inicio": "30/05/2026",
+    "fecha_fin": "",
+    "estado": "activa",
+    "lotes": []
+  },
+  {
+    "id": "CAM-0004",
+    "nombre": "Test Soya",
+    "zona": "Montero",
+    "hectareas": 50,
+    "cultivo": "soya",
+    "tipoSuelo": "Medio",
+    "semilla": "TMG 7262",
+    "fechaSiembra": "2026-11-10",
+    "fecha_inicio": "10/11/2026",
+    "fecha_fin": "",
+    "estado": "activa",
+    "lotes": [],
+    "costos": {
+      "semilla": 2700
+    },
+    "rentabilidad": {
+      "rendimientoTonHa": 2.2,
+      "precioTonUSD": 370
+    },
+    "clima": {
+      "tempProm": 28,
+      "region": "Norte"
+    }
+  }
+]

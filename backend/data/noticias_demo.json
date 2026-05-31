@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lluvias favorecen zonas productivas del norte cruceño",
+    "fuente": "SENAMHI",
+    "fecha": "2026-05-29",
+    "resumen": "Condiciones de humedad mejoran para siembra de soya en San Pedro y Cuatro Canadas.",
+    "imagen": "noticia-1.jpg",
+    "url": "#"
+  },
+  {
+    "id": 2,
+    "titulo": "Precio referencial de soya se mantiene en $370/tonelada",
+    "fuente": "CAINCO",
+    "fecha": "2026-05-29",
+    "resumen": "El precio de referencia para la zona cruceña se mantiene estable para la campana verano 2026.",
+    "imagen": "noticia-2.jpg",
+    "url": "#"
+  },
+  {
+    "id": 3,
+    "titulo": "Humedad maxima permitida para acopio: 14%",
+    "fuente": "INIA",
+    "fecha": "2026-05-28",
+    "resumen": "Lotones con humedad superior al 14% reciben descuento automatico en el acopio.",
+    "imagen": "noticia-3.jpg",
+    "url": "#"
+  },
+  {
+    "id": 4,
+    "titulo": "Productores buscan herramientas digitales para trazabilidad",
+    "fuente": "CPRN",
+    "fecha": "2026-05-27",
+    "resumen": "El registro digital de campanas y lotes mejora la toma de decisiones en campo y acopio.",
+    "imagen": "noticia-4.jpg",
+    "url": "#"
+  },
+  {
+    "id": 5,
+    "titulo": "IA visual aplicada a clasificacion de granos de soya",
+    "fuente": "TechAgro",
+    "fecha": "2026-05-26",
+    "resumen": "Modelos de vision artificial pueden detectar moho, granos partidos y defectos en tiempo real.",
+    "imagen": "noticia-5.jpg",
+    "url": "#"
+  },
+  {
+    "id": 6,
+    "titulo": "Calidad de grano influye directamente en el valor de la carga",
+    "fuente": "CIARA-CECO",
+    "fecha": "2026-05-25",
+    "resumen": "Humedad, impurezas y defectos visuales afectan el precio final pagado al productor.",
+    "imagen": "noticia-6.jpg",
+    "url": "#"
+  },
+  {
+    "id": 7,
+    "titulo": "Conectividad rural exige apps con modo offline",
+    "fuente": "FAO",
+    "fecha": "2026-05-24",
+    "resumen": "Las aplicaciones agricolas deben funcionar sin internet estable en zonas alejadas.",
+    "imagen": "noticia-7.jpg",
+    "url": "#"
+  },
+  {
+    "id": 8,
+    "titulo": "Acopios necesitan reportes electronicos trazables",
+    "fuente": "INOXIDABLE",
+    "fecha": "2026-05-23",
+    "resumen": "Digitalizar la recepcion de lotes facilita auditoria interna y trazabilidad.",
+    "imagen": "noticia-8.jpg",
+    "url": "#"
+  },
+  {
+    "id": 9,
+    "titulo": "Camaras y sensores: automatizacion futura del acopio",
+    "fuente": "AgriTech",
+    "fecha": "2026-05-22",
+    "resumen": "Camaras industriales y PLCs pueden conectarse despues del MVP para automatizar clasificacion.",
+    "imagen": "noticia-9.jpg",
+    "url": "#"
+  }
+]

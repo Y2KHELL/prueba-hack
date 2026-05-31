@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-soy-green: #008C45;
+  --color-soy-green-dark: #064E2E;
+  --color-soy-gold: #D6A03A;
+  --color-soy-graphite: #1F2A24;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+:root {
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #f8fafc;
+}
+
+* {
+  box-sizing: border-box;
+}

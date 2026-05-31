@@ -1,0 +1,94 @@
+{
+  "Usuario": [
+    "id",
+    "nombre",
+    "rol",
+    "email",
+    "telefono",
+    "modoPrincipal"
+  ],
+  "Campana": [
+    "id",
+    "usuarioId",
+    "nombre",
+    "zona",
+    "hectareas",
+    "tipoSuelo",
+    "fechaSiembra",
+    "semilla",
+    "estado"
+  ],
+  "Costo": [
+    "id",
+    "campanaId",
+    "tipo",
+    "descripcion",
+    "monto",
+    "fecha"
+  ],
+  "ActividadCultivo": [
+    "id",
+    "campanaId",
+    "tipo",
+    "fecha",
+    "producto",
+    "motivo",
+    "plaga",
+    "costo",
+    "observacion"
+  ],
+  "BitacoraFoto": [
+    "id",
+    "campanaId",
+    "etapa",
+    "fotoUrl",
+    "fecha",
+    "observacion"
+  ],
+  "IngresoCamion": [
+    "id",
+    "lotId",
+    "productor",
+    "zona",
+    "pesoToneladas",
+    "horaIngreso",
+    "humedadMedida",
+    "impurezaManual",
+    "estado"
+  ],
+  "MuestraVisual": [
+    "id",
+    "ingresoId",
+    "imagenes",
+    "estadoValidacion"
+  ],
+  "AnalisisImagen": [
+    "id",
+    "muestraId",
+    "sanoPct",
+    "partidoPct",
+    "manchadoPct",
+    "mohoPct",
+    "impurezaPct",
+    "calidad",
+    "riesgo"
+  ],
+  "ReporteRecepcion": [
+    "id",
+    "ingresoId",
+    "castigoPct",
+    "perdidaEstimada",
+    "valorAjustado",
+    "recomendacion",
+    "fecha"
+  ],
+  "Noticia": [
+    "id",
+    "titulo",
+    "fuente",
+    "fecha",
+    "resumen",
+    "imagen",
+    "url"
+  ]
+}

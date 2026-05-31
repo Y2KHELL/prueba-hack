@@ -1,0 +1,21 @@
+{
+  "id": "CAM-2026-001",
+  "nombre": "Soya Verano 2026",
+  "zona": "Pailón",
+  "hectareas": 50,
+  "tipoSuelo": "Medio",
+  "fechaSiembra": "2026-11-10",
+  "semilla": "Variedad por definir",
+  "costos": {
+    "semilla": 2700,
+    "fertilizante": 1200,
+    "herbicida": 500,
+    "fungicidaInsecticida": 700,
+    "maquinariaDiesel": 1600,
+    "transporte": 900
+  },
+  "rentabilidad": {
+    "rendimientoTonHa": 2.2,
+    "precioTonUSD": 370
+  }
+}

@@ -1,0 +1,15 @@
+prioridad,tarea,responsable,dia,estado
+Alta,Crear repo y estructura base,Líder técnico,Día 1,pendiente
+Alta,Implementar layout institucional y navegación superior,Frontend,Día 1,pendiente
+Alta,"Landing con hero, módulos y noticias precargadas",Frontend,Día 1,pendiente
+Alta,Dashboard Acopio + nuevo ingreso + recepción técnica,Frontend/Backend,Día 1-2,pendiente
+Alta,Carga de 5 imágenes y validación visual,Frontend/IA,Día 2,pendiente
+Alta,Análisis IA/prototipo y resultado técnico,IA,Día 2,pendiente
+Alta,Cálculo de castigo y recomendación,Backend,Día 2,pendiente
+Alta,Reporte final descargable o imprimible,Frontend/Backend,Día 2-3,pendiente
+Media,Modo Campo: crear campaña y costos,Frontend/Backend,Día 1-2,pendiente
+Media,Rentabilidad esperada,Backend,Día 2,pendiente
+Media,Bitácora fotográfica,Frontend,Día 2,pendiente
+Media,README y variables de entorno,Líder técnico,Día 2-3,pendiente
+Alta,Video pitch y guion demo,IA/Demo,Día 3,pendiente
+Alta,Pruebas con datos demo y respaldo local,Todos,Día 3,pendiente

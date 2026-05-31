@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lluvias favorecen zonas productivas del norte integrado",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Condiciones de humedad mejoran para algunas áreas de producción soyera.",
+    "imagen": "noticia-1.jpg",
+    "url": "#"
+  },
+  {
+    "id": 2,
+    "titulo": "Precio referencial de soya se mantiene estable para la demo",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Dato precargado para mostrar contexto económico durante la presentación.",
+    "imagen": "noticia-2.jpg",
+    "url": "#"
+  },
+  {
+    "id": 3,
+    "titulo": "Productores buscan herramientas digitales para mejorar trazabilidad",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "El registro digital puede ayudar en costos, seguimiento y recepción.",
+    "imagen": "noticia-3.jpg",
+    "url": "#"
+  },
+  {
+    "id": 4,
+    "titulo": "Calidad de grano influye en el valor final de la carga",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Humedad, impurezas y condición visual afectan descuentos y decisiones de acopio.",
+    "imagen": "noticia-4.jpg",
+    "url": "#"
+  },
+  {
+    "id": 5,
+    "titulo": "Trazabilidad desde campo hasta silo como oportunidad tecnológica",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Un ID de lote puede conectar campaña, transporte y recepción.",
+    "imagen": "noticia-5.jpg",
+    "url": "#"
+  },
+  {
+    "id": 6,
+    "titulo": "IA visual aplicada a muestras agrícolas",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Modelos de visión pueden apoyar clasificación y revisión técnica.",
+    "imagen": "noticia-6.jpg",
+    "url": "#"
+  },
+  {
+    "id": 7,
+    "titulo": "Conectividad rural exige aplicaciones con respaldo offline",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "El modo campo debe guardar datos aun sin conexión estable.",
+    "imagen": "noticia-7.jpg",
+    "url": "#"
+  },
+  {
+    "id": 8,
+    "titulo": "Acopios requieren reportes más trazables",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Digitalizar recepción facilita revisión y auditoría interna.",
+    "imagen": "noticia-8.jpg",
+    "url": "#"
+  },
+  {
+    "id": 9,
+    "titulo": "Automatización industrial queda como fase futura",
+    "fuente": "Demo local",
+    "fecha": "2026-05-29",
+    "resumen": "Cámaras, PLC y sensores pueden conectarse después del MVP.",
+    "imagen": "noticia-9.jpg",
+    "url": "#"
+  }
+]

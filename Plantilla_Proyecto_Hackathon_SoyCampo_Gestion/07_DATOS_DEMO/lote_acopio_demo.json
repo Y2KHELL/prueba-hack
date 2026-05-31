@@ -1,0 +1,28 @@
+{
+  "intakeId": "ING-2026-0008",
+  "lotId": "LOT-2026-0008",
+  "productor": "Juan Pérez",
+  "zona": "San Pedro",
+  "pesoToneladas": 30.5,
+  "humedadMedida": 15.8,
+  "impurezaManual": 3.0,
+  "analysis": {
+    "imagenesAnalizadas": 5,
+    "granosVisiblesEstimados": 482,
+    "sanoPct": 84,
+    "partidoPct": 6,
+    "manchadoPct": 5,
+    "impurezasPct": 3,
+    "mohoPct": 2,
+    "calidad": "B",
+    "riesgo": "MEDIO"
+  },
+  "penalty": {
+    "precioTonUSD": 370,
+    "castigoPct": 4.5,
+    "valorBrutoUSD": 11285,
+    "perdidaEstimadaUSD": 507.8,
+    "valorAjustadoUSD": 10777.2,
+    "recomendacion": "Aceptar con observación, enviar a secado y no mezclar con lote sano."
+  }
+}

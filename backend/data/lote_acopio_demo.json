@@ -1,0 +1,75 @@
+[
+  {
+    "id": "ING-2026-0001",
+    "lotId": "LOT-2026-0001",
+    "productor": "Juan Perez",
+    "zona": "San Pedro",
+    "pesoToneladas": 30.5,
+    "horaIngreso": "08:30",
+    "humedadMedida": 13.2,
+    "impurezaManual": 2.1,
+    "estado": "aprobado",
+    "analysis": {
+      "imagenesAnalizadas": 5,
+      "granosVisiblesEstimados": 482,
+      "sanoPct": 92,
+      "partidoPct": 4,
+      "manchadoPct": 2,
+      "impurezasPct": 1.5,
+      "mohoPct": 0.5,
+      "calidad": "A",
+      "riesgo": "BAJO"
+    },
+    "penalty": {
+      "precioTonUSD": 370,
+      "castigoPct": 0,
+      "valorBrutoUSD": 11285,
+      "perdidaEstimadaUSD": 0,
+      "valorAjustadoUSD": 11285,
+      "recomendacion": "Aceptado sin observacion. Humedad dentro del rango permitido."
+    }
+  },
+  {
+    "id": "ING-2026-0002",
+    "lotId": "LOT-2026-0002",
+    "productor": "Maria Lopez",
+    "zona": "Pailon",
+    "pesoToneladas": 25.0,
+    "horaIngreso": "10:15",
+    "humedadMedida": 15.8,
+    "impurezaManual": 3.0,
+    "estado": "rechazado",
+    "analysis": {
+      "imagenesAnalizadas": 5,
+      "granosVisiblesEstimados": 482,
+      "sanoPct": 72,
+      "partidoPct": 10,
+      "manchadoPct": 8,
+      "impurezasPct": 5,
+      "mohoPct": 5,
+      "calidad": "C",
+      "riesgo": "ALTO"
+    },
+    "penalty": {
+      "precioTonUSD": 370,
+      "castigoPct": 12.5,
+      "valorBrutoUSD": 9250,
+      "perdidaEstimadaUSD": 1156.25,
+      "valorAjustadoUSD": 8093.75,
+      "recomendacion": "Rechazar lote. Humedad excedida y presencia de moho. Enviar a planta de secado obligatorio."
+    }
+  },
+  {
+    "id": "ING-2026-0003",
+    "lotId": "LOT-2026-0003",
+    "productor": "Carlos Mamani",
+    "zona": "Cuatro Canadas",
+    "pesoToneladas": 40.2,
+    "horaIngreso": "14:00",
+    "humedadMedida": 14.0,
+    "impurezaManual": 2.5,
+    "estado": "pendiente",
+    "analysis": null,
+    "penalty": null
+  }
+]

@@ -1,0 +1,12 @@
+- [ ] Código funcionando en local.
+- [ ] Deploy o alternativa de demo local estable.
+- [ ] README con nombre del proyecto, integrantes, descripción, arquitectura, tecnologías, instalación y ejecución.
+- [ ] Repositorio público actualizado con todos los integrantes como colaboradores.
+- [ ] Variables de entorno documentadas sin exponer claves.
+- [ ] Datos demo preparados: noticias, campaña, lote, imágenes, resultado IA y reporte.
+- [ ] Capturas de pantallas principales.
+- [ ] Presentación final lista.
+- [ ] Video pitch máximo 2 minutos.
+- [ ] Guion de demo practicado.
+- [ ] Respaldo local del proyecto y video de demo por si falla internet.
+- [ ] Documento técnico con problema, solución, arquitectura, IA, FODA, PESTEL, Lean Canvas, análisis financiero e impacto.

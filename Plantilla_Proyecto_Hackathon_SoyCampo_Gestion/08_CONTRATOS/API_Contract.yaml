@@ -1,0 +1,44 @@
+openapi_style: conceptual
+project: SoyCampo
+version: 0.1.0
+note: Si se usa Firebase/Firestore, estos endpoints se convierten en servicios o Cloud Functions equivalentes.
+endpoints:
+  - method: GET
+    path: /api/health
+    description: Verifica que el backend o demo esté funcionando.
+  - method: GET
+    path: /api/news
+    description: Lista noticias precargadas para el carrusel.
+  - method: POST
+    path: /api/campaigns
+    description: Crea una campaña de soya.
+  - method: GET
+    path: /api/campaigns
+    description: Lista campañas.
+  - method: POST
+    path: /api/campaigns/{id}/costs
+    description: Guarda costos y calcula total/costo por hectárea.
+  - method: POST
+    path: /api/campaigns/{id}/activities
+    description: Registra actividad de manejo del cultivo.
+  - method: POST
+    path: /api/campaigns/{id}/profitability
+    description: Calcula rentabilidad esperada.
+  - method: POST
+    path: /api/intakes
+    description: Registra nuevo ingreso de camión/lote.
+  - method: PATCH
+    path: /api/intakes/{id}/reception
+    description: Guarda humedad medida e impureza manual.
+  - method: POST
+    path: /api/intakes/{id}/samples
+    description: Crea muestra visual con imágenes.
+  - method: POST
+    path: /api/samples/{id}/analyze
+    description: Ejecuta IA o prototipo controlado para clasificar muestra.
+  - method: POST
+    path: /api/intakes/{id}/penalty
+    description: Calcula castigo económico y recomendación.
+  - method: GET
+    path: /api/reports/{id}
+    description: Obtiene reporte final.
