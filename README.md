@@ -29,7 +29,7 @@
 * [Impacto esperado](#impacto-esperado)
 * [Próximos pasos](#próximos-pasos)
 * [Licencia](#licencia)
-*  [DocumentoTecnico](#DocumentoTecnico)
+*  [DocumentoTecnico](#AgroSoya/DocumentoTecnico/)
 
 ---
 
