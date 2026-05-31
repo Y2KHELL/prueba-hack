@@ -635,8 +635,8 @@ La documentación técnica oficial de **AgroSoya** se encuentra disponible en la
 
 ### Documento técnico principal
 
-- [Ver Documento Técnico - PDF](docs/Documento_Tecnico_AgroSoya.pdf)
-- [Descargar Documento Técnico editable - DOCX](docs/Documento_Tecnico_AgroSoya.docx)
+- [Ver Documento Técnico - PDF](DocumentoTecnico/Documento_Tecnico_AgroSoya.pdf)
+- [Descargar Documento Técnico editable - DOCX](DocumentoTecnico/Documento_Tecnico_AgroSoya.docx)
 
 El documento técnico incluye los puntos solicitados por los lineamientos de la hackathon:
 
@@ -654,13 +654,13 @@ El documento técnico incluye los puntos solicitados por los lineamientos de la 
 
 ### Lean Canvas
 
-- [Ver Lean Canvas - PDF](docs/Lean_Canvas_AgroSoya.pdf)
-- [Descargar Lean Canvas editable - DOCX](docs/Lean_Canvas_AgroSoya.docx)
+- [Ver Lean Canvas - PDF](DocumentoTecnico/Lean_Canvas_AgroSoya.pdf)
+- [Descargar Lean Canvas editable - DOCX](DocumentoTecnico/Lean_Canvas_AgroSoya.docx)
 
 ### Documentos complementarios
 
-- [Resumen Ejecutivo](docs/Resumen_Ejecutivo_AgroSoya.md)
-- [Fuentes de Investigación](docs/Fuentes_Investigacion_AgroSoya.md)
+- [Resumen Ejecutivo](DocumentoTecnico/Resumen_Ejecutivo_AgroSoya.md)
+- [Fuentes de Investigación](DocumentoTecnico/Fuentes_Investigacion_AgroSoya.md)
 
 Estos documentos respaldan la propuesta de AgroSoya como una solución orientada a la digitalización de la cadena soyera cruceña, integrando gestión de campo, control de calidad en acopio, inteligencia artificial y una visión de escalabilidad hacia entornos agroindustriales.
 
