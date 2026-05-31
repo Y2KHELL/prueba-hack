@@ -37,7 +37,7 @@
 | Nombre         | Rol                  |
 | ------------   | -------------------- |
 | Josue Guzman   |  Developer           |
-| Joel Albert    |  Developer           |
+| Joel Albert   |  Developer           |
 | Fabian Hurtado |  Developer           |
 | Elena Rojas    |  Developer           |
 
