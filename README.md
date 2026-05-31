@@ -41,7 +41,6 @@
 | Fabian Hurtado |  Developer           |
 | Elena Rojas    |  Developer           |
 
-> Nota: completar con todos los integrantes oficiales del equipo y verificar que todos figuren como colaboradores en el repositorio de GitHub durante la hackathon.
 
 ---
 
