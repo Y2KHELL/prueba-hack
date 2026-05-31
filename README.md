@@ -43,6 +43,13 @@
 
 
 ---
+## Demo en línea
+
+La aplicación desplegada de **AgroSoya** está disponible en:
+
+🔗 [https://agro-soya.web.app](https://agro-soya.web.app)
+
+> Nota: la versión desplegada corresponde al MVP/demo de hackathon. Algunas funciones pueden operar con datos de prueba, backend local o servicios externos según la configuración disponible.
 
 ## Problema identificado
 
