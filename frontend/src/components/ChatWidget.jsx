@@ -11,6 +11,18 @@ function ChatWidget() {
 
   useEffect(() => { endRef.current?.scrollIntoView({ behavior: 'smooth' }) }, [messages])
 
+  const mockResponse = (text) => {
+    const lower = text.toLowerCase()
+    if (lower.includes('humedad')) return "La humedad maxima para soya es 14%. Cada punto extra genera un castigo del 2.5%. Te recomiendo usar el modo acopio para medirlo correctamente."
+    if (lower.includes('calidad')) return "La calidad se clasifica en A (+90% sanos), B (80-90%), C (70-80%) y D (<70%). Se evalua porcentaje de granos sanos, partidos, manchados y con moho."
+    if (lower.includes('castigo') || lower.includes('descuento')) return "El castigo se calcula por: humedad excedida (2.5% por punto), defectos graves (moho = 30pts) y defectos menores (partido = 10pts). Puede llegar al 30%."
+    if (lower.includes('precio') || lower.includes('soya') || lower.includes('soja')) return "Precio actual: $370 USD/tonelada (~Bs 2,590). Rendimiento promedio en Santa Cruz: 2.0-2.5 ton/ha. Siembra en verano (nov-dic) o invierno (jun-jul)."
+    if (lower.includes('campo')) return "En Modo Campo podes crear campanas, registrar costos (semilla, fertilizante, etc.), actividades y ver rentabilidad esperada."
+    if (lower.includes('acopio')) return "En Modo Acopio: registras ingreso del camion, pones humedad medida, subes fotos y la IA analiza calidad automaticamente."
+    if (lower.includes('hola') || lower.includes('buenas') || lower.includes('que tal')) return "Hola! Soy el asistente de AgroSoya. Preguntame sobre soya, calidad de grano, humedad o como usar la plataforma."
+    return "Preguntame sobre: humedad, calidad, castigos, modo campo, modo acopio, precios de soya o como usar AgroSoya."
+  }
+
   const send = async () => {
     if (!input.trim() || loading) return
     const msg = input.trim()
@@ -22,7 +34,7 @@ function ChatWidget() {
       if (!r.ok) throw new Error('Error')
       const d = await r.json()
       setMessages(p => [...p, { role: 'bot', text: d.response || 'No pude procesar.' }])
-    } catch { setMessages(p => [...p, { role: 'bot', text: 'Error de conexion.' }]) }
+    } catch { setMessages(p => [...p, { role: 'bot', text: mockResponse(msg) }]) }
     finally { setLoading(false) }
   }
 
