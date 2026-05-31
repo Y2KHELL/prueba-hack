@@ -511,7 +511,7 @@ Capturas sugeridas:
 
 ## Video pitch
 
-Pendiente: insertar enlace al video pitch de máximo 2 minutos.
+https://youtu.be/H4iZA53qnVY?feature=shared
 
 
 ---
